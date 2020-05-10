@@ -1,4 +1,4 @@
-define(['https://github.com/yarden2307/mta.project/blob/master/README.md'], function(iatExtension){
+define(['https://github.com/yarden2307/mta.project'], function(iatExtension){
 
     return iatExtension({
         category1 : {
