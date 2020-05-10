@@ -1,4 +1,4 @@
-define(['https://github.com/yarden2307/mta.project'], function(iatExtension){
+define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtension){
 
     return iatExtension({
         category1 : {
