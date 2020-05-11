@@ -12,7 +12,7 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
                 {word: 'גיי'},
                 {word: 'הומו'},
                 {word: 'הומוסקסואל'},
-                {word: 'גיי'},
+                {word: 'לסבית'},
                 {word: 'הומו'}
             ],
             //Stimulus css (style)
