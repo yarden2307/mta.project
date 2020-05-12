@@ -1,6 +1,4 @@
 
-
-
 define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtension){
 
     return iatExtension({
