@@ -4,7 +4,7 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
         category1 : {
             name : 'מזרחים', //Will appear in the data.
             title : {
-                media : {word : 'שמות משפחה מזרחים'}, //Name of the category presented in the task.
+                media : {word : 'הומואים'}, //Name of the category presented in the task.
                 css : {color:'#31940F','font-size':'1.8em'}, //Style of the category title.
                 height : 4 //Used to position the "Or" in the combined block.
             }, 
@@ -21,7 +21,7 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
         category2 :    {
             name : 'אשכנזים', //Will appear in the data.
             title : {
-                media : {word : 'שמות משפחה אשכנזים'}, //Name of the category presented in the task.
+                media : {word : 'הטרוסקסואליים'}, //Name of the category presented in the task.
                 css : {color:'#31940F','font-size':'1.8em'}, //Style of the category title.
                 height : 4 //Used to position the "Or" in the combined block.
             }, 
