@@ -10,9 +10,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             }, 
             stimulusMedia : [ //Stimuli content as PIP's media objects
                 {word: 'גיי'},
-                {image : '05_gay.jpg'}, 
+                {image : '05_gay.jpg'},
+	        {image : '14_gay.jpg'},
                 {word: 'הומו'},
-                {image : '07_lesbian.jpg'},
                 {word: 'הומואים'}
 		
             ],
