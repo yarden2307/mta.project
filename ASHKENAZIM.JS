@@ -27,18 +27,18 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
                 height : 4 //Used to position the "Or" in the combined block.
             }, 
             stimulusMedia : [ //Stimuli content as PIP's media objects
-                {word: 'לבקוביץ\''},
-                {word: 'גליקשטיין'},
-                {word: 'בלומפלד'},
-                {word: 'רוזנסקי'},
-                {word: 'ברגסון'}
+                {word: 'הטרו'},
+                {image : '06_hetero.jpg'}, 
+                {word: 'הטרוסקסואליים'},
+                {image : '13_hetero.jpg'}, 
+                {word: 'סטרייט'}
             ],
             //Stimulus css (style)
        stimulusCss : {color:'#31940F','font-size':'2.3em'}
 		},
 		
         base_url : {//Where are your images at?
-            image : 'https://baranan.github.io/minno-tasks/images/'
+            image : 'https://yarden2307.github.io/minno-tasks/docs/images/'
      	 
         },
         attribute1 : {
