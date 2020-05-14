@@ -35,6 +35,10 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             ],
             //Stimulus css (style)
             stimulusCss : {color:'#31940F','font-size':'2.3em'}
+		},	
+		base_url : {//Where are your images at?
+			image : 'https://yarden2307.github.io/minno-tasks/docs/images/'
+		} 
         },
         attribute1 : {
             name : 'רע',
