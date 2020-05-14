@@ -9,11 +9,12 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
                 height : 4 //Used to position the "Or" in the combined block.
             }, 
             stimulusMedia : [ //Stimuli content as PIP's media objects
-                {word: 'חג\'ג\''},
-                {word: 'מועלם'},
-                {word: 'אוחיון'},
-                {word: 'ג\'רבי'},
-                {word: 'סמוחה'}
+                {word: 'גיי'},
+                {image : '05_gay.jpg'}, 
+                {word: 'הומו'},
+                {image : '07_lesbian.jpg'},
+                {word: 'הומואים'}
+		
             ],
             //Stimulus css (style)
             stimulusCss : {color:'#31940F','font-size':'2.3em'}
