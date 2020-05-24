@@ -91,9 +91,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
         instAttributePractice: '<div style="font-size:20px; text-align:center;">' +
             '<p><u> חלק blockNum מתוך nBlocks </u></p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
-            'הקישו באצבע שמאל על מקש <b>E</b> ' + 
+            'הקישו באצבע ימין על מקש <b>I</b> ' + 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font><br/>'+
-            'הקישו באצבע ימין על מקש <b>I</b> '+ 
+            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightAttribute</font><br/>'+
             'אם תבצעו טעות, <font color="#ff0000"><b>X</b></font> אדום יופיע<br/> '+
 			'לחצו על המקש האחר כדי להמשיך<br/>' +
@@ -104,9 +104,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
         instCategoriesPractice: '<div style="font-size:20px; text-align:center;">' +
             '<p><u> חלק blockNum מתוך nBlocks </u><br/><br/></p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
-            'הקישו באצבע שמאל על מקש <b>E</b> ' + 
-            'עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
             'הקישו באצבע ימין על מקש <b>I</b> ' + 
+            'עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
+            'הקישו באצבע שמאל על מקש <b>E</b> ' + 
             'עבור פריטים ששייכים לקטגוריה <font color="#336600">rightCategory</font><br/>'+
             'אם תבצעו טעות, <font color="#ff0000"><b>X</b></font> אדום יופיע<br/> '+
 			'לחצו על המקש האחר כדי להמשיך<br/>' +
@@ -116,10 +116,10 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
         instFirstCombined : '<div style="font-size:20px; text-align:center;">' +
             '<p><u> חלק blockNum מתוך nBlocks </u></p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
-            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
+            'הקישו באצבע ימין על מקש <b>I</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font> ' +
             'או עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
-            'הקישו באצבע ימין על מקש <b>I</b> ' + 
+            'הקישו באצבע שמאל על מקש <b>E</b> ' + 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightAttribute</font> '+
             'או עבור פריטים ששייכים לקטגוריה <font color="#336600">rightCategory</font><br/>'+
 			'כל פריט מתאים רק לקטגוריה אחת<br/><br/>' +
@@ -131,10 +131,10 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
         instSecondCombined : '<div style="font-size:20px; text-align:center;">' +
             '<p><u> חלק blockNum מתוך nBlocks </u></p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
-            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
+            'הקישו באצבע ימין על מקש <b>I</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font> '+
             'או עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
-            'הקישו באצבע ימין על מקש <b>I</b> '+ 
+            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightAttribute</font> ' +
             'או עבור פריטים ששייכים לקטגוריה <font color="#336600">rightCategory</font><br/>'+
 			'כל פריט מתאים רק לקטגוריה אחת<br/><br/>' +
@@ -147,9 +147,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             '<p><u> חלק blockNum מתוך nBlocks </u><p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
 			'<b>שימו לב! הקטגוריות החליפו מיקום</b><br/>' +
-            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
-            'עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
             'הקישו באצבע ימין על מקש <b>I</b> '+ 
+            'עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
+            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#336600">rightCategory</font><br/>'+
 			'<u>השיבו מהר ככל האפשר אך היו מדויקים</u><br/><br/></p>'+
 			'<p>לחצו על מקש הרווח כאשר אתם מוכנים להתחיל</p></div>',
