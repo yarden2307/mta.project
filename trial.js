@@ -2,36 +2,36 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
 
     return iatExtension({
         category1 : {
-            name : 'הומוסקסואליים', //Will appear in the data.
-            title : {
-                media : {word : 'הומוסקסואליים'}, //Name of the category presented in the task.
-                css : {color:'#31940F','font-size':'1.8em'}, //Style of the category title.
-                height : 4 //Used to position the "Or" in the combined block.
-            }, 
-            stimulusMedia : [ //Stimuli content as PIP's media objects
-                {word: 'גיי'},
-                {image : '05_gay.jpg'},
-	        {image : '14_gay.jpg'},
-                {word: 'הומו'},
-                {word: 'הומואים'}
-		
-            ],
-            //Stimulus css (style)
-            stimulusCss : {color:'#31940F','font-size':'2.3em'}
-        },    
-        category2 :    {
             name : 'הטרוסקסואליים', //Will appear in the data.
             title : {
                 media : {word : 'הטרוסקסואליים'}, //Name of the category presented in the task.
                 css : {color:'#31940F','font-size':'1.8em'}, //Style of the category title.
                 height : 4 //Used to position the "Or" in the combined block.
-            }, 
+           
+		 }, 
             stimulusMedia : [ //Stimuli content as PIP's media objects
                 {word: 'הטרו'},
                 {image : '06_hetero.jpg'}, 
                 {word: 'הטרוסקסואליים'},
                 {image : '13_hetero.jpg'}, 
                 {word: 'סטרייט'}
+            ],
+            //Stimulus css (style)
+            stimulusCss : {color:'#31940F','font-size':'2.3em'}
+        },    
+        category2 :    {
+            name : 'הומוסקסואליים', //Will appear in the data.
+            title : {
+                media : {word : 'הומוסקסואליים'}, //Name of the category presented in the task.
+                css : {color:'#31940F','font-size':'1.8em'}, //Style of the category title.
+                height : 4 //Used to position the "Or" in the combined block.
+             }, 
+            stimulusMedia : [ //Stimuli content as PIP's media objects
+                {word: 'גיי'},
+                {image : '05_gay.jpg'},
+	        {image : '14_gay.jpg'},
+                {word: 'הומו'},
+                {word: 'הומואים'}
             ],
             //Stimulus css (style)
        stimulusCss : {color:'#31940F','font-size':'2.3em'}
