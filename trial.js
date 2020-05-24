@@ -92,9 +92,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             '<p><u> חלק blockNum מתוך nBlocks </u></p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
             'הקישו באצבע ימין על מקש <b>I</b> ' + 
-            'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font><br/>'+
-            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightAttribute</font><br/>'+
+            'הקישו באצבע שמאל על מקש <b>E</b> '+ 
+            'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font><br/>'+
             'אם תבצעו טעות, <font color="#ff0000"><b>X</b></font> אדום יופיע<br/> '+
 			'לחצו על המקש האחר כדי להמשיך<br/>' +
 			'<u>השיבו מהר ככל האפשר אך היו מדויקים</u></p>'+
