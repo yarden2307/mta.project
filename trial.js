@@ -119,10 +119,10 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
             'הקישו באצבע ימין על מקש <b>I</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightAttribute</font> ' +
-            'או עבור פריטים ששייכים לקטגוריה <font color="#336600">rightAttribute</font><br/>'+
+            'או עבור פריטים ששייכים לקטגוריה <font color="#336600">rightcategory</font><br/>'+
             'הקישו באצבע שמאל על מקש <b>E</b> ' + 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font> '+
-            'או עבור פריטים ששייכים לקטגוריה <font color="#336600">leftAttribute</font><br/>'+
+            'או עבור פריטים ששייכים לקטגוריה <font color="#336600">leftcategory</font><br/>'+
 			'כל פריט מתאים רק לקטגוריה אחת<br/><br/>' +
             'אם תבצעו טעות, <font color="#ff0000"><b>X</b></font> אדום יופיע<br/>'+
 			'לחצו על המקש האחר כדי להמשיך<br/>' +
@@ -133,11 +133,11 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             '<p><u> חלק blockNum מתוך nBlocks </u></p>' +
 			'<p style="vertical-align:bottom; margin-right:10px;">' +
             'הקישו באצבע ימין על מקש <b>I</b> '+ 
-            'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightCategory</font> '+
+            'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">rightAttribute</font> '+
             'או עבור פריטים ששייכים לקטגוריה <font color="#336600">rightCategory</font><br/>'+
             'הקישו באצבע שמאל על מקש <b>E</b> '+ 
             'עבור פריטים ששייכים לקטגוריה <font color="#0000ff">leftAttribute</font> ' +
-            'או עבור פריטים ששייכים לקטגוריה <font color="#336600">leftAttribute</font><br/>'+
+            'או עבור פריטים ששייכים לקטגוריה <font color="#336600">leftCategory</font><br/>'+
 			'כל פריט מתאים רק לקטגוריה אחת<br/><br/>' +
             'אם תבצעו טעות, <font color="#ff0000"><b>X</b></font> אדום יופיע<br/>'+
 			'לחצו על המקש האחר כדי להמשיך<br/>' +
