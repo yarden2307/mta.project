@@ -20,9 +20,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             stimulusCss : {color:'#31940F','font-size':'2.3em'}
         },    
         category2 :    {
-            name : 'הומוסקסואליים', //Will appear in the data.
+            name : 'הטרוסקסואליים', //Will appear in the data.
             title : {
-                media : {word : 'הומוסקסואליים'}, //Name of the category presented in the task.
+                media : {word : 'הטרוסקסואליים'}, //Name of the category presented in the task.
                 css : {color:'#31940F','font-size':'1.8em'}, //Style of the category title.
                 height : 4 //Used to position the "Or" in the combined block.
              }, 
