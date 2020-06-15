@@ -12,7 +12,8 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             stimulusMedia : [ //Stimuli content as PIP's media objects
                 {word: 'גיי'},
                 {image : '05_gay.jpg'},
-	        {image : '14_gay.jpg'},
+	        {image : 'gay1.png'},
+		{image : 'gay2.png'},
                 {word: 'הומו'},
                 {word: 'הומואים'}
             ],
@@ -29,8 +30,9 @@ define(['https://baranan.github.io/minno-tasks/quiat8.js'], function(iatExtensio
             stimulusMedia : [ //Stimuli content as PIP's media objects
 		{word: 'הטרו'},
                 {image : '06_hetero.jpg'}, 
+		{image : 'hetro1.png'}, 
                 {word: 'הטרוסקסואליים'},
-                {image : '13_hetero.jpg'}, 
+                {image : 'hetro2.png'}, 
                 {word: 'סטרייט'}
               
             ],
